@@ -1,5 +1,5 @@
 # Keep Notes
-This is an assignment.
+A very light Google keep clone.
 
 ## Instructions
 Clone this repo. Run `npm install`.
